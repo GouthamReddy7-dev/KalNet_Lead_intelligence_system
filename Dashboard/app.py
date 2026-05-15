@@ -16,7 +16,7 @@ with st.form(key="DataForm"):
 
     state=st.selectbox(
         "State",
-        [None,'Telangana','Maharashtra','Andhra Pradesh','Tamil Nadu']
+        [None,'Telangana','Maharashtra','Delhi','Tamil Nadu','Karnataka']
     )
 
     school_type=st.selectbox(
