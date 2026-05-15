@@ -6,7 +6,7 @@ st.title("DashBoard :")
 
 st.divider()
 
-apiurl='http://127.0.0.1:8000/leads?'
+apiurl='https://kalnet-dashboard-api-3.onrender.com/leads?'
 
 formdata={}
 
